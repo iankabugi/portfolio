@@ -1,0 +1,10 @@
+HTML{
+    background-color: black;
+}
+.row, .container, body{
+    background-color: grey;
+}
+h1{
+    font-family: 'Titan One', cursive;
+    font-size: 70px;
+}
