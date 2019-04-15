@@ -1,5 +1,5 @@
 HTML{
-    background-color: black;
+    background-color: grey;
 }
 .row, .container, body{
     background-color: grey;
@@ -8,3 +8,85 @@ h1{
     font-family: 'Titan One', cursive;
     font-size: 70px;
 }
+.intro{
+    background-image: url(http://bestanimations.com/Transport/Cars/luxury-car-animated-gif-2.gif#.XLQt2aLsnLQ.link);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1200px;
+}
+#profile{
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 21px;
+  font-style: oblique;
+}
+#skills{
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 21px;
+  font-style: oblique;
+}
+#projects {
+    font-size: 21px;
+    font-style: oblique;
+    background:grey;
+  
+  }
+  img{
+    margin: 0 auto;
+  }
+  
+  
+  #projects h3 {
+    padding-top: 10px;
+    font-family: 'Julius Sans One', sans-serif;
+    font-size: 40px;
+    text-align: center;
+  }
+  
+  #end {
+    height: 60px;
+    padding: 5px;
+    background-color: rgba(0,0,0, 0.1);
+  }
+  
+  #name {
+    float: left;
+    padding-left: 100px;
+    padding-top: 22px;
+    font-family: 'Anaheim', sans-serif;
+    display: inline-block;
+  }
+  
+  #social {
+    float: right;
+    padding-right: 200px;
+    padding-top: 15px;
+  
+  }
+  
+  #social img {
+    padding-left: 10px;
+  }
+  
+  table img {
+    width: 350px;
+    height: 190px;
+    overflow: show;
+  }
+  
+  table td {
+    padding-left: 65px;
+    padding-top: 20px;
+  }
+  
+  table img:hover {
+    transform: scale(1.1);
+    transition: all .4s ease-in;
+    filter: grayscale(1);
+  }
+  
+  table td p {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 21px;
+    font-style: oblique;
+  }
+  
