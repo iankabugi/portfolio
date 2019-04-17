@@ -1,8 +1,8 @@
 HTML{
-    background-color: grey;
+    background-color: whiyte;
 }
 .row, .container, body{
-    background-color: grey;
+    background-color: white;
 }
 h1{
     font-family: 'Titan One', cursive;
@@ -10,25 +10,25 @@ h1{
     color: white;
 }
 .intro{
-    background-image: url(http://bestanimations.com/Transport/Cars/luxury-car-animated-gif-2.gif#.XLQt2aLsnLQ.link);
+    background-image: url(https://media.giphy.com/media/A5aG03QnM9hGU/giphy.gif);
     background-repeat: no-repeat;
-    background-size: cover;
-    height: 1200px;
+    background-size:100% auto;
+    height:100vh;
 }
 #profile{
   font-family: 'Josefin Sans', sans-serif;
   font-size: 21px;
-  font-style: oblique;
+  font-style: normal;
 }
 #skills{
   font-family: 'Josefin Sans', sans-serif;
   font-size: 21px;
-  font-style: oblique;
+  font-style: normal;
 }
 #projects {
     font-size: 21px;
-    font-style: oblique;
-    background:grey;
+    font-style: normal;
+    
   
   }
   img{
@@ -88,6 +88,23 @@ h1{
   table td p {
     font-family: 'Josefin Sans', sans-serif;
     font-size: 21px;
-    font-style: oblique;
+    font-style: normal;
   }
-  
+  .ian{
+    margin-top: 50px;
+  }
+  .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .intro {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  footer{
+    color:white;
+    background-color: black;
+  }
